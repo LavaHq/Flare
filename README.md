@@ -1,6 +1,6 @@
 # Flare
 ## A company tree that displays employees by teams
 
-![Orchestration](images\CompanyPage.png)
+![TeamPage](images/CompanyPage.png)
 
-![Orchestration](images\TeamPage.png)
+![TeamPage](images/TeamPage.png)
